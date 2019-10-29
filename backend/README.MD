@@ -25,8 +25,8 @@ Once you're all set up, you can create a session with the following credentials:
 This will give you the token you'll need to acess most of requests.
 Create students, memberships, then assign each other by using the /registrations route.
 
-Everytime you assign a student to a membership, the user will receive a e-mail with the membership details.
-This works with the questions answering as well.
+Everytime you assign a student to a membership, the user shall receive a e-mail with the membership details.
+This work with questions answering as well.
 
 The mailing is provide by nodemailer and uses background jobs, working apart from the API itself.
 
@@ -55,4 +55,4 @@ The mailing is provide by nodemailer and uses background jobs, working apart fro
 
 ## Acknowledgments
 
-* This is the first!
+* Thanks rocketseat! This is happening because of you guys!
