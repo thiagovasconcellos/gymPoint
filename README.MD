@@ -1,3 +1,5 @@
+## Project under construction!!!
+
 ## GymPoint - Gym Management
 This is just a simple gym management. You can create students, memberships then assign the students to the membership.
 You will find 3 folders here: backend, frontend and mobile.
